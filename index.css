@@ -1,0 +1,38 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+  background-color: #1B262C;
+  color: white;
+  text-shadow: 0px 0px 10px white;
+}
+.video{
+  height: 500px;
+  padding-top: 8px;
+}
+.box{
+  border-width: thin;
+  border-color: black;
+  border-style: inset;
+  width: 930px;
+  background-color: black;
+    box-shadow: 0px 0px 20px white;
+}
+.file{
+  border-width: thin;
+  border-color: black;
+  border-style: inset;
+  width: 150px;
+  border-radius: 10px;
+  background-color: black;
+}
+img{
+  height: 400px;
+  opacity: 0.3;
+  box-shadow: 0px 0px 20px white;
+}
+hr{
+  background-color: white;
+}
+.Description{
+  background-color: #041C32;
+}
